@@ -17,20 +17,7 @@
 
 _As informações dos valores de cada propriedade, de cada objeto poderá ser de sua preferência. Crie, no mínimo 3 itens na lista_
 
-Faça o teste com outros exemplos.
 
-Faça commit do resultado.
-
----
-
-Preencha a checklist para finalizar o exercício:
-
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
-
-###### tags: `backend` `lógica` `exercício` `nodeJS` `JavaScript`
 */
 const carros = [{
     marca: "Fiat",
